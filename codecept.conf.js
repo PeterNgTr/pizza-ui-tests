@@ -1,10 +1,10 @@
 const selenium = require('selenium-standalone');
+require('import-export');
 
 exports.config = {
   tests: "./tests/**/*.js",
   timeout: 10000,
-  "output": "./output",
-  require: ['import-export'],
+  output: "./output",
   helpers: {
     WebDriverIO: {
       url: 'https://www.pizza.de',
