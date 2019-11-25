@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/PeterNgTr/pizza-ui-tests.svg?branch=master)](https://travis-ci.org/PeterNgTr/pizza-ui-tests)
+[![Build Status](https://travis-ci.org/PeterNgTr/pizza-ui-tests.svg?branch=master)](https://travis-ci.org/PeterNgTr/pizza-ui-tests) [![Greenkeeper badge](https://badges.greenkeeper.io/PeterNgTr/pizza-ui-tests.svg)](https://greenkeeper.io/)
 
 # Introduction
 
