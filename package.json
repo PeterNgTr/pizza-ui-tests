@@ -20,7 +20,7 @@
     "codeceptjs": "2.3.6",
     "import-export": "^1.0.1",
     "mocha": "^6.2.2",
-    "selenium-standalone": "^6.15.4"
+    "selenium-standalone": "6.16.0"
   },
   "devDependencies": {
     "eslint": "^6.7.1",
